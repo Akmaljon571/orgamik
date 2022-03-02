@@ -1,0 +1,75 @@
+
+
+.main_container {
+    max-width: 1300px;
+    padding: 0;
+    margin: 0 auto;
+    background-color: rgba(118, 167, 19, 0.31);
+}
+
+.main {
+    width: 1000px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 800px;
+}
+
+.main_img1 {
+    background-color: rgb(118, 167, 19,0.1);
+    padding: 20px 13px;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #76A713;
+}
+
+.main_img5{
+    background-color: rgb(118, 167, 19);
+    padding: 20px 13px;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #76A713;
+}
+
+.main_img {
+    position: absolute;
+    margin-left: 1225px;
+    background-color: rgba(118, 167, 19,);
+    padding: 20px 13px;
+    cursor: pointer;
+    color: black;
+    z-index: auto;
+    border: 1px solid #76A713;
+}
+
+.main_left {
+    width: 483px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+
+.left_small {
+    color: #76A713;
+    font-family: Oswald;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 74px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.left_h1 {
+    font-family: Oswald;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 119px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 30px;
+    width: 473px;
+}
+
+/*main qismi tugashi*/

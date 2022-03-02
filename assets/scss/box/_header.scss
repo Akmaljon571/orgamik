@@ -1,0 +1,147 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 5px;
+    margin-bottom: 17px;
+}
+
+.nav_h5 {
+    margin: 0px;
+    height: 16px;
+    font-size: 17px;
+    line-height: 15px;
+    font-weight: 500;
+    font-family: "Gilroy";
+    margin-right: 30px;
+}
+
+
+.nav_img:hover {
+    cursor: no-drop;
+}
+
+.nav_email {
+    margin-right: 10px;
+}
+
+.nav_div {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 620px;
+    height: 16px;
+    margin-left: 117px;
+}
+
+.nav_option {
+    padding-right: 15px;
+}
+
+.option_img {
+    margin-left: 5px;
+    width: 10px;
+    height: 8px;
+    padding-bottom: 3px;
+}
+
+.rasm {
+    margin-right: 20px;
+}
+
+.nav_fb {
+    margin-left: 31px;
+}
+
+.header_div {
+    display: flex;
+    align-items: center;
+}
+
+.header_orgamic {
+    width: 217px;
+    height: 50px;
+    margin-top: 30px;
+}
+
+.header_list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 416px;
+    height: 19px;
+    margin-left: 303px;
+    margin-right: 48px;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 0;
+}
+
+.header_item1 {
+    color: #76A713;
+    cursor: pointer;
+    border-bottom: 1px solid #76A713;
+}
+
+.header_item:hover {
+    color: #76A713;
+    cursor: pointer;
+    border-bottom: 1px solid #76A713;
+}
+
+.header_link {
+    text-decoration: none;
+    color: white;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 10px 30px;
+    background-color: #76A713;
+    border: 1px solid #ffffff;
+}
+
+.header_link:hover {
+    border: 1px solid #76A713;
+    background-color: white;
+    color: #76A713
+}
+
+.header_button1 {
+    width: 40px;
+    height: 40px;
+    margin: 0 10px;
+}
+
+.header_button {
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
+
+.header_span {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    color: #ffffff;
+    border-radius: 50%;
+    margin: -3px -5px -3px;
+    font-family: Gilroy;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 10px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: #76A713;
+}
+
+/*Header qismi tugashi*/

@@ -1,0 +1,205 @@
+.alison_container{
+    max-width: 1400px;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+  }
+  
+  .alison_div{
+    width: 381px;
+    height: 540px;
+    position: relative;
+    background-color: #FF6600;
+    margin-top: 100px;
+  }
+  
+  .alison_img{
+    margin: 19px 167px 20px 85px;
+  }
+  
+  .alison_img1{
+    position: absolute;
+    margin-top: 65px;
+    margin-left: -231px;
+  }
+  
+  .alison_div1{
+    width: 570px;
+    height: 400px;
+    margin-top: 170px;
+    margin-right: 115px;
+    margin-bottom: 70px;
+    margin-left: 365px;
+    text-align: center;
+    background-color: #ffffff;
+    z-index: 1;
+    box-shadow: 0px 20px 50px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  .alison_p{
+    width: 500px;
+    height: 88px;
+    text-align: center;
+    font-family: Gilroy;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 170%;
+    text-align: center;
+    color:#aaaaaa;
+    margin: 53px 33px 0 37px;
+  }
+  
+  .alison_h5{
+    font-family: Oswald;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin: 0;
+    margin-top: 8px;
+  }
+  
+  .alison_span{
+    font-family: Gilroy;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+  
+  .alison_aylan{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  
+  .aylana{
+    background-color:#76A713;
+  }
+  
+  .alison_aylana:hover{
+    background-color:#76A713;
+    cursor: pointer;
+  }
+  
+  .alison_aylana{
+    width: 8px;
+    height: 8px;
+    box-sizing: border-box;
+    border: 1px solid #DDDDDD;
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+  
+  .alison_left{
+    width: 485px;
+    height: 740px;
+    background-color: #76A7134D;
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -100px;
+  }
+  
+  .p_div{
+    position: relative;
+    max-width: 1300px;
+    padding: 0;
+    margin: 0 auto;
+  }
+  
+  /* alison qismi tugashi */
+  
+  .blog_list{
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .blog_item{
+    width: 370px;
+    height: 507px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-bottom: 108px;
+  }
+  
+  .blog_item1{
+    width: 370px;
+    height: 507px;
+    box-shadow: 0px 16px 45px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .blog_item:hover{
+    box-shadow: 0px 16px 45px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .blog_img{
+    margin-bottom: 29px;
+    margin-left: -20px;
+  }
+  
+  .blog_image1{
+    margin-right: 9px;
+    margin-left: 20px;
+  }
+  
+  .blog_p{
+    font-family: Gilroy;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+  }
+  
+  .blog_h3{
+    font-family: Oswald;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 18px 20px; 
+    margin: 0; 
+  }
+  
+  .blog_hr{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
+  .blog_p2{
+    margin-left: 58px; 
+    color: #76A713;
+  }
+  
+  .blog_imag1{
+    margin-left: 5px;
+  }
+  
+  .blog_hh{
+    font-family: Oswald;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 18px 20px; 
+    margin: 0; 
+    color: #76A713;
+  }
+  
+  /* blog qismi tugashi*/

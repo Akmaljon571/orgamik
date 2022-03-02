@@ -1,0 +1,273 @@
+.buy {
+    display: flex;
+    margin-top: 77px;
+    margin-bottom: 107px;
+    padding: 0;
+}
+
+.buy1 {
+    margin-left: 22px;
+}
+
+.buy_now {
+    padding: 14px 16px;
+    border: 1px solid #FF6600;
+    background-color: #FF6600;
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-top: 29px;
+}
+
+.buy_now1 {
+    padding: 14px 16px;
+    border: 1px solid #76A713;
+    background-color: #76A713;
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-top: 29px;
+
+}
+
+.buy_image {
+    width: 270px;
+    height: 338px;
+}
+
+.buy_span {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 48px;
+}
+
+.buy_div5 {
+    margin-left: 25px;
+}
+
+.buy_div {
+    border: 1.5px dashed rgba(118, 167, 19, 0.5);
+    color: #76A713;
+    padding: 11px 69px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 44px;
+    letter-spacing: 0.03em;
+    width: 271px;
+    height: 124px;
+    &:hover{
+        
+            box-shadow: 1px 1px 1px 1px black;
+            transition: all 1s ease-in-out;
+    }
+}
+
+.buy_h2 {
+    width: 517px;
+    height: 178px;
+    margin: 0;
+    margin-top: -23px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 89px;
+    text-transform: uppercase;
+    margin-bottom: 39px;
+}
+
+.buy_p {
+    color: #888888;
+    margin-bottom: 35px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+}
+
+.buy_blockquote {
+    padding-left: 19px;
+    margin-left: 0;
+    border-left: 2px solid #76A713;
+    margin-bottom: 35px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #888888;
+    margin-bottom: 35px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+}
+
+.buy_toplam{
+    margin-left: 130px;
+}
+
+.buy_now:hover {
+    background-color: white;
+    color: #76A713;
+}
+.buy_cite {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+}
+
+.cite_div {
+    color: #888888;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 140%;
+}
+
+/*buy qismi tugashi*/
+
+
+.list {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    background-color: #F8F8F8;
+    width: 1500px;
+    margin: -100px auto;
+    padding: 0 85px;
+    height: 700px;
+}
+
+.list_item {
+    margin: 0;
+    width: 270px;
+    height: 354px;
+    text-align: center;
+    border: 1px solid #76A713;
+    margin-left: 30px;
+    padding: 0;
+}
+
+.active {
+    margin: 0;
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+}
+
+.list_h3 {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+}
+
+.list_h1 {
+    margin-top: 3px;
+    color: #76A713;
+    margin-bottom: 13px;
+}
+
+.list_h2 {
+    margin-top: 14px;
+    margin-bottom: 13px;
+}
+
+.list_h4 {
+    margin-top: -13px;
+    margin-bottom: 13px;
+}
+
+.list_h5 {
+    margin-top: 18px;
+    margin-bottom: 13px;
+}
+
+.list_p {
+    margin-bottom: 27px;
+}
+
+.arrow {
+    padding: 12px 13px;
+    border: 1px solid #76A713;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.arrow:hover {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+
+/*lest qismi tugashi*/
+
+
+.box{
+    display: flex;
+    margin-top: 1200px;
+}
+
+.left {
+    width: 585px;
+    height: 300px;
+    display: flex;
+    background-color: #76A713;
+}
+
+.left_img {
+    width: 300px;
+    height: 300px;
+}
+
+.left_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+    margin: 0;
+    margin-right: 39px;
+}
+
+.left_span {
+    margin-top: 46px;
+    color: white;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+}
+
+.left_h3 {
+    margin: 0;
+    padding: 0;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 59px;
+    text-align: right;
+    color: white;
+}
+
+
+
+.right{
+    background-color: #FF6600;
+
+}

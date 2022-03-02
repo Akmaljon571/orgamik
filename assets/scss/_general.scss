@@ -1,0 +1,49 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Gilroy', 'Oswald', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto
+}
+
+.hr {
+    border: 1px solid #EEEEEE;
+}
+
+
+.shop_now {
+    padding: 14px 16px;
+    border: 1px solid #76A713;
+    background-color: #76A713;
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.list_i{
+    list-style: none;
+}
+
+.shop_now:hover {
+    background-color: white;
+    color: #76A713;
+}
+
+img{
+    height: auto;
+}
